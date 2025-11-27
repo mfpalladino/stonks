@@ -109,6 +109,6 @@ Veja detalhes em [docs/fases-projeto.md](docs/fases-projeto.md)
 
 ## 💚 Sobre o Projeto
 
-Este projeto nasceu durante o AWS Vibe Coding Dojo no DevFest Pernambuco 2025, onde demonstramos como criar um sistema funcional e com identidade visual em apenas 2 horas. O objetivo foi mostrar que é possível construir MVPs robustos rapidamente quando se tem as ferramentas certas e uma boa metodologia.
+Este projeto nasceu durante o AWS Vibe Coding Dojo no DevFest Pernambuco 2025, onde demonstramos como criar um sistema funcional e com identidade visual em apenas 2 horas.
 
 **Feito com ❤️ pela comunidade AWS no DevFest PE**

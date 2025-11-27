@@ -5,6 +5,8 @@
 
 MVP de sistema de gestão focado em Vendas e Estoque para microempresários.
 
+![Stonks Screenshot](images/sample.png)
+
 ## ✨ Funcionalidades MVP
 
 - ✅ Cadastro de Produtos (nome, preço, quantidade)

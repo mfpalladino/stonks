@@ -5,6 +5,12 @@
 
 MVP de sistema de gestão focado em Vendas e Estoque para microempresários.
 
+## 👥 O Time
+
+![Time AWS Vibe Coding Dojo](images/team.JPG)
+
+## 📸 Screenshot
+
 ![Stonks Screenshot](images/sample.png)
 
 ## ✨ Funcionalidades MVP
